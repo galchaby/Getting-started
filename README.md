@@ -11,5 +11,5 @@ Ez egy gyakorlati branch a tesztelési feladatok kipróbálásához.
 
 # Új branch stage és commit visszavonás gyakorlására
 
-stage visszavonás gyakorlása
+stage visszavonás gyakorlása  
 commit visszavonás gyakorlása
